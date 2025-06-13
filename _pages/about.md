@@ -94,9 +94,9 @@ X. Zhou,  **B. Zhao***, G. Yang, J. Zhang, L. Li and B. M. Chen
 
 # 🏆 Honors and Awards
 ##### Postgraduate
-- [**Gold Award & Best Business Potential Award**](https://www.cwisa.com/en/past-award-winners.html), Chun Wo Innovation Student Awards, Hong Kong, 2023
-- [**Best Business Idea Award**](https://daretochange.ydc.org.hk/en/showcase-urbannet.aspx), YDC Dare To Change Business Pitch Competition, Hong Kong, 2023
-- [**Champion**](https://www.orkts.cuhk.edu.hk/en/news-events/announcements/3735-event-highlight-professor-charles-k-kao-student-creativity-awards-pckksca-prize-presentation-ceremony-1-june-2023), Professor Charles K. Ko Student Creativity Award, Hong Kong, 2023
+- [**Gold Award & Best Business Potential Award**](https://www.cwisa.com/en/past-award-winners.html) - 💰HKD 105000, Chun Wo Innovation Student Awards, Hong Kong, 2023
+- [**Best Business Idea Award**](https://daretochange.ydc.org.hk/en/showcase-urbannet.aspx) - 💰HKD 15000, YDC Dare To Change Business Pitch Competition, Hong Kong, 2023
+- [**Champion**](https://www.orkts.cuhk.edu.hk/en/news-events/announcements/3735-event-highlight-professor-charles-k-kao-student-creativity-awards-pckksca-prize-presentation-ceremony-1-june-2023) - 💰HKD 18000, Professor Charles K. Ko Student Creativity Award, Hong Kong, 2023
 - [**Bronze Medal**](https://ifia.com/the-48th-international-exhibition-of-inventions-in-geneva-was-held-with-success/), 48th Geneva International Exhibition of Inventions, Geneva, Switzerland, 2023
 - **Postgraduate Studentship**, The Chinese University of Hong Kong, Hong Kong, 2022-2026
 
