@@ -6,7 +6,7 @@ main:
   - title: "News"
     url: "/#-latest-news"
 
-  - title: "Publications"
+  - title: "Publication"
     url: "/#-selected-publications"
 
   - title: "Experience"
@@ -15,13 +15,13 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Honors"
+  - title: "Honor"
     url: "/#-honors-and-awards"
 
   - title: "Work"
     url: "/#-working-and-internships"
 
-  - title: "Reviewer"
+  - title: "Review"
     url: "/#-academic-reviewer"
 
   - title: "Invited Conference"

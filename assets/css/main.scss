@@ -118,4 +118,27 @@ h1:before, .anchor:before {
     font-weight: bold;
     font-size: 0.8em;            /* 控制字体大小 */
     margin-left: 2px;
-  }
+}
+
+.logo-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;   /* 居中排列，可选 */
+    align-items: center;       /* 垂直居中，可选 */
+    gap: 20px;                 /* 图片之间的间距，可根据需要调整 */
+    margin: 20px 0;
+}
+  
+.logo-row img {
+    height: 80px;              /* 控制图片高度，宽度会等比例缩放 */
+    width: auto;
+    object-fit: contain;
+    display: block;
+}
+
+.site-footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #888; /* 可选：让颜色更淡雅 */
+    font-size: 0.95em; /* 可选：字体稍小一点 */
+}

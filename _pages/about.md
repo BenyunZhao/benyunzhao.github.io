@@ -130,9 +130,9 @@ X. Zhou,  **B. Zhao***, G. Yang, J. Zhang, L. Li and B. M. Chen
 - *2021.09 - 2022.06*, **Teaching Assistant** of MAEG5910 Master of Science Project, Instructor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), The Chinese University of Hong Kong, Hong Kong.
     - Defect Images Generation based on Generative Adversarial Network (Mingjie Xie)
     - Concrete Cracks Detection based on Semantic Segmentation (Shiya Su)
-- *2019.09 - 2019.10*, **Mechanical Engineer**, [YTO Group Corporation](http://www.ytocorp.com/), Luoyang, China.
-- *2018.06 - 2018.08*, **Mechanical Engineer**, [SINOPEC Jinling Company](http://jlpec.sinopec.com/jlpec/), Nanjing, China.
-- *2017.06 - 2017.08*, **Mechanical Engineer**, [SINOPEC Jinling Company](http://jlpec.sinopec.com/jlpec/), Nanjing, China.
+- *2019.09 - 2019.10*, **Mechanical Engineer Intern**, [YTO Group Corporation](http://www.ytocorp.com/), Luoyang, China.
+- *2018.06 - 2018.08*, **Mechanical Engineer Intern**, [SINOPEC Jinling Company](http://jlpec.sinopec.com/jlpec/), Nanjing, China.
+- *2017.06 - 2017.08*, **Mechanical Engineer Intern**, [SINOPEC Jinling Company](http://jlpec.sinopec.com/jlpec/), Nanjing, China.
 
 
 # 📝 Academic Reviewer
@@ -142,3 +142,20 @@ X. Zhou,  **B. Zhao***, G. Yang, J. Zhang, L. Li and B. M. Chen
 
 # 💬 Invited Conference 
 - *2023.07*: International Symposium on Cooperative Autonomous Systems, at [Pengcheng Laboratory](https://www.pcl.ac.cn/), chaired by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) and [Prof. Hugh Liu](https://www.flight.utias.utoronto.ca/fsc/index.php/team)
+
+
+<div class="logo-row">
+  <img src="../images/brands/CUHK.png"      alt="">
+  <img src="../images/brands/ucb.svg.png"  alt="">
+  <img src="../images/brands/hkclr.png"      alt="">
+</div>
+
+
+<footer class="site-footer">
+  <p>&copy; 2025 Benyun Zhao. All rights reserved.</p>
+  <p>
+    Template adapted from
+    <a href="https://github.com/RayeRen/acad-homepage.github.io"
+       target="_blank" rel="noopener">Yi Ren</a>.
+  </p>
+</footer>
