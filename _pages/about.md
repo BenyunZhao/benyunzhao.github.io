@@ -23,7 +23,7 @@ My work focuses on applications of computer vision based on unmanned systems, su
 
 
 # 🔥 Latest News
-- *2025.05*: 🎉🎉 I am horned to have a chance to visit [HiPeR Lab](https://hiperlab.berkeley.edu/) in UC Berkeley. 
+- *2025.05*: 🎉🎉 I am horned to have a chance to visit [HiPeRLab](https://hiperlab.berkeley.edu/) in UC Berkeley. 
 - *2025.05*: 🎉🎉 Our three papers are presented in ICRA 2025 in Atlanta, USA. 
 - *2024.10*: 🎉🎉 Our two papers are presented in IROS 2024 in Abu Dhabi, UAE.
 
