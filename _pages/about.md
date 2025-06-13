@@ -68,7 +68,7 @@ X. Zhou,  **B. Zhao***, G. Yang, J. Zhang, L. Li and B. M. Chen
 </div>
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIC 2024</div><img src='images/papers/aic.png' alt="AIC" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIC</div><img src='images/papers/aic.png' alt="AIC" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [High-resolution infrastructure defect detection dataset sourced by unmanned systems and validated with deep learning approaches](https://www.sciencedirect.com/science/article/abs/pii/S0926580524001419?via%3Dihub)
