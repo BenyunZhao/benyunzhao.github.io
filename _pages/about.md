@@ -83,8 +83,8 @@ X. Zhou,  **B. Zhao***, G. Yang, J. Zhang, L. Li and B. M. Chen
 
 # 💻 Experience
 - *2025.05 - present*: Visiting Student, [HiPeR Lab](https://hiperlab.berkeley.edu/) in UC Berkeley, supervised by [Prof. Mark W. Mueller](https://me.berkeley.edu/people/mark-w-mueller/)
-- *2021.07 - 2022.07*: Research Assistant, The Chinese University of Hong Kong & Hong Kong Centre for Logistics Robotics, supervised by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and [Prof. Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/)
 - *2024.04 - 2025.05*: Visiting Student, Nanjing University of Science and Technology, supervised by [Prof. Zhenbo Song](https://www.researchgate.net/profile/Song-Zhenbo) and [Prof. Jianfeng Lu](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
+- *2021.07 - 2022.07*: Research Assistant, The Chinese University of Hong Kong & Hong Kong Centre for Logistics Robotics, supervised by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and [Prof. Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/)
 
 # 📖 Education
 - *2022.09 - present*: Ph.D. in Mechanical and Automation Engineering, The Chinese University of Hong Kong, supervised by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
@@ -113,23 +113,23 @@ X. Zhou,  **B. Zhao***, G. Yang, J. Zhang, L. Li and B. M. Chen
 # 💼 Working and Internships
 - *2025.01 - 2025.05*, **Teaching Assistant** of ESTR1006 Multivariable Calculus (2024-2025 Semester 2), Instructor: [Prof. Dongkun Han](https://www4.mae.cuhk.edu.hk/peoples/han-dongkun/), The Chinese University of Hong Kong, Hong Kong.
 - *2024.09 - 2025.12*, **Teaching Assistant** of MAEG4040 Mechatronic System (2024-2025 Semester 1), Instructor: [Prof. Xin Ma](https://mee.sustech.edu.cn/en/jiaozhiyuangong/3683.html), The Chinese University of Hong Kong, Hong Kong.
-- *2024.09 - 2025.06*, **Teaching Assistant** of MAEG5910 Master of Science Project, Instructor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), The Chinese University of Hong Kong, Hong Kong.
-    - Deep Learning-Based Detection and Segmentation of Building Façade Defects and Components: From Dataset Establishment to Drone Experiments (Katerina Yim)
+- *2024.09 - 2025.06*, **Teaching Assistant** of MAEG4998 Undergraduate Final Year Project,, Instructor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), The Chinese University of Hong Kong, Hong Kong.
+    - Deep Learning-Based Detection and Segmentation of Building Façade Defects and Components: From Dataset Establishment to Drone Experiments (Student: Katerina Yim)
 
 
 - *2024.01 - 2024.05*, **Teaching Assistant** of ESTR1006 Multivariable Calculus (2023-2024 Semester 2), Instructor: [Prof. Dongkun Han](https://www4.mae.cuhk.edu.hk/peoples/han-dongkun/), The Chinese University of Hong Kong, Hong Kong. 
 - *2023.09 - 2023.12*, **Teaching Assistant** of MAEG4040 Mechatronic System (2023-2024 Semester 1), Instructor: [Prof. Xin Ma](https://mee.sustech.edu.cn/en/jiaozhiyuangong/3683.html), The Chinese University of Hong Kong, Hong Kong.
 - *2023.09 - 2024.06*, **Teaching Assistant** of MAEG5910 Master of Science Project, Instructor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/),The Chinese University of Hong Kong, Hong Kong.
-    - Learning-Based Large-Scale 3D Reconstruction: A Comparison between Multi-View Stereo and Neural Radiance Field (Zhiqing Yu & Minghao Jia)
+    - Learning-Based Large-Scale 3D Reconstruction: A Comparison between Multi-View Stereo and Neural Radiance Field (Student: Zhiqing Yu & Minghao Jia)
 
 - *2022.09 - 2023.06*, **Teaching Assistant** of MAEG5910 Master of Science Project, Instructor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), The Chinese University of Hong Kong, Hong Kong.
-    - Building Defects Detection based on YOLOv8（Guang Li）
-- *2022.09 - 2023.06*, **Teaching Assistant** of MAEG4040 Undergraduate Final Year Project, Instructor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), The Chinese University of Hong Kong, Hong Kong.
-    - Building Defect Dataset Establishment and Real-time Defect Detection (Helen Fung)
+    - Building Defects Detection based on YOLOv8 (Student: Guang Li)
+- *2022.09 - 2023.06*, **Teaching Assistant** of MAEG4998 Undergraduate Final Year Project, Instructor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), The Chinese University of Hong Kong, Hong Kong.
+    - Building Defect Dataset Establishment and Real-time Defect Detection (Student: Helen Fung)
     
 - *2021.09 - 2022.06*, **Teaching Assistant** of MAEG5910 Master of Science Project, Instructor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), The Chinese University of Hong Kong, Hong Kong.
-    - Defect Images Generation based on Generative Adversarial Network (Mingjie Xie)
-    - Concrete Cracks Detection based on Semantic Segmentation (Shiya Su)
+    - Defect Images Generation based on Generative Adversarial Network (Student: Mingjie Xie)
+    - Concrete Cracks Detection based on Semantic Segmentation (Student: Shiya Su)
 - *2019.09 - 2019.10*, **Mechanical Engineer Intern**, [YTO Group Corporation](http://www.ytocorp.com/), Luoyang, China.
 - *2018.06 - 2018.08*, **Mechanical Engineer Intern**, [SINOPEC Jinling Company](http://jlpec.sinopec.com/jlpec/), Nanjing, China.
 - *2017.06 - 2017.08*, **Mechanical Engineer Intern**, [SINOPEC Jinling Company](http://jlpec.sinopec.com/jlpec/), Nanjing, China.
