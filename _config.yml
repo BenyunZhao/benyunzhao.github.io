@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Benyun Zhao"
+description              : "Consistency is what transforms average to excellence."
+repository               : # "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,31 +21,31 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  name             : "Benyun Zhao"
+  avatar           : "images/self1.png"
+  bio              : "USR Group in CUHK & HiPeRLab in UC Berkeley"
+  location         : "Berkeley, CA, USA"
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    : "https://scholar.google.com/citations?user=XQuAI8UAAAAJ&hl=en"
+  email            : "benyunzhao@berkeley.edu"
+  researchgate     : "https://www.researchgate.net/profile/Benyun-Zhao"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : # "https://www.github.com/ZHAOBenyun"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/benyun-zhao-96b09b255/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0008-7298-2927"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
