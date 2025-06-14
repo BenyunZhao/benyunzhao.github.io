@@ -223,6 +223,20 @@ X Zhou, G. Yang, Y. Chen, C. Gao, **B. Zhao**, L. Li and B. M. Chen
 </div>
 
 
+<!-- ##### ------------------- split paper ------------------- #####  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMB</div><img src='images/papers/cbm-taxonomy.PNG' alt="iros2023" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Datasets and processing methods for boosting visual inspection of civil infrastructure: A comprehensive review and algorithm comparison for crack classification, segmentation, and detection
+
+G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
+
+- *Accpeted at Construction and Building Materials*, 2022
+- [**PDF**](https://www.sciencedirect.com/science/article/pii/S0950061822028823)
+</div>
+</div>
+
+
 # 💻 Experience
 - *2025.05 - present*: Visiting Student, [HiPeRLab](https://hiperlab.berkeley.edu/) in UC Berkeley, supervised by [Prof. Mark W. Mueller](https://me.berkeley.edu/people/mark-w-mueller/)
 - *2024.04 - 2025.05*: Visiting Student, Nanjing University of Science and Technology, supervised by [Prof. Zhenbo Song](https://www.researchgate.net/profile/Song-Zhenbo) and [Prof. Jianfeng Lu](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
