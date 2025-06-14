@@ -1,70 +1,68 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# 这是Jekyll的主配置文件，影响整个站点的设置。
+# 一般只需配置一次，后续很少需要修改。
+# 注意：修改此文件后需要重启Jekyll服务器才能生效。
 
-# Site Settings
-title                    : "Benyun Zhao"
-description              : "Consistency is what transforms average to excellence."
-repository               : # "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+# 站点基本设置
+title                    : "Benyun Zhao"                # 网站标题，显示在浏览器标签和SEO中
+description              : "Consistency is what transforms average to excellence."  # 网站描述，用于SEO和侧边栏简介
+repository               : "https://github.com/BenyunZhao/benyunzhao.github.io"  # 你的GitHub仓库地址，用于自动化部署等
+google_scholar_stats_use_cdn : false  # 是否使用CDN加载谷歌学术统计数据
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+# Google Analytics（网站访问统计）
+google_analytics_id      :  # 从 https://analytics.google.com/analytics/ 获取的跟踪ID
 
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+# SEO相关设置（搜索引擎优化）
+google_site_verification :  # Google站长验证码，从 https://search.google.com/search-console/about 获取
+bing_site_verification   :  # Bing站长验证码，从 https://www.bing.com/webmasters/about 获取
+baidu_site_verification  :  # 百度站长验证码，从 https://ziyuan.baidu.com/login/index?u=/site/index 获取
 
-# Site Author
+# 作者信息（显示在侧边栏/作者卡片）
 author:
-  name             : "Benyun Zhao"
-  avatar           : "images/self.png"
-  bio              : "USR Group in CUHK & HiPeRLab in UC Berkeley"
-  location         : "Berkeley, CA, USA"
+  name             : "Benyun Zhao"  # 你的名字
+  avatar           : "images/self.png"  # 头像图片路径
+  bio              : "USR Group in CUHK & HiPeRLab in UC Berkeley"  # 简短的个人简介
+  location         : "Berkeley, CA, USA"  # 所在地
   employer         : 
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=XQuAI8UAAAAJ&hl=en"
-  email            : "benyunzhao@berkeley.edu"
-  researchgate     : "https://www.researchgate.net/profile/Benyun-Zhao"
-  uri              : 
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # "https://www.github.com/ZHAOBenyun"
-  google_plus      :
-  keybase          :
-  instagram        : 
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/benyun-zhao-96b09b255/"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0008-7298-2927"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  pubmed           :  # PubMed个人主页链接
+  googlescholar    : "https://scholar.google.com/citations?user=XQuAI8UAAAAJ&hl=en"  # 谷歌学术主页
+  email            : "benyunzhao@berkeley.edu"  # 联系邮箱
+  researchgate     : "https://www.researchgate.net/profile/Benyun-Zhao"  # ResearchGate主页
+  uri              :  # 个人网站
+  bitbucket        :  # Bitbucket账号
+  codepen          :  # CodePen账号
+  dribbble         :  # Dribbble账号
+  flickr           :  # Flickr账号
+  facebook         :  # Facebook账号
+  foursquare       :  # Foursquare账号
+  github           :  "https://github.com/BenyunZhao" 
+  google_plus      :  # Google+账号
+  keybase          :  # Keybase账号
+  instagram        :  # Instagram账号
+  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"  # ImpactStory主页
+  lastfm           :  # Last.fm账号
+  linkedin         : "https://www.linkedin.com/in/benyun-zhao-96b09b255/"  # LinkedIn主页
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"  # DBLP主页
+  orcid            : "https://orcid.org/0009-0008-7298-2927"  # ORCID ID
+  pinterest        :  # Pinterest账号
+  soundcloud       :  # SoundCloud账号
+  stackoverflow    : # http://stackoverflow.com/users/123456/username  # Stack Overflow主页
+  steam            :  # Steam账号
+  tumblr           :  # Tumblr账号
+  twitter          :  # Twitter账号
+  vine             :  # Vine账号
+  weibo            :  # 微博账号
+  xing             :  # Xing账号
+  youtube          :  # YouTube频道
+  wikipedia        :  # Wikipedia主页
 
-
-# Reading Files
-include:
+# 文件读取设置
+include:  # 需要包含的文件和目录
   - .htaccess
   - _pages
   - files
-exclude:
+exclude:  # 需要排除的文件和目录
   - docs
   - google_scholar_crawler
   - "*.sublime-project"
@@ -91,73 +89,67 @@ exclude:
   - package.json
   - tmp
   - vendor
-keep_files:
+keep_files:  # 需要保留的文件
   - .git
   - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+encoding: "utf-8"  # 文件编码
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"  # Markdown文件扩展名
 
+# 转换设置
+markdown: kramdown  # 使用的Markdown解析器
+highlighter: rouge  # 代码高亮工具
+lsi: false  # 是否启用相关文章功能
+excerpt_separator: "\n\n"  # 摘要分隔符
+incremental: false  # 是否启用增量构建
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-
-# Markdown Processing
+# Markdown处理设置
 kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+  input: GFM  # 使用GitHub风格的Markdown
+  hard_wrap: false  # 是否启用硬换行
+  auto_ids: true  # 是否自动生成标题ID
+  footnote_nr: 1  # 脚注编号起始值
+  entity_output: as_char  # 实体输出方式
+  toc_levels: 1..6  # 目录级别范围
+  smart_quotes: lsquo,rsquo,ldquo,rdquo  # 智能引号设置
+  enable_coderay: false  # 是否启用Coderay
 
-# Defaults
+# 默认设置
 defaults:
-  # _pages
+  # _pages目录下的页面默认设置
   - scope:
       path: ""
       type: pages
     values:
-      layout: default
-      author_profile: true
+      layout: default  # 默认布局
+      author_profile: true  # 是否显示作者信息
 
-
-# Sass/SCSS
+# Sass/SCSS设置
 sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  sass_dir: _sass  # Sass文件目录
+  style: compressed  # 输出样式（压缩）
 
+# 输出设置
+permalink: /:categories/:title/  # 永久链接格式
+timezone: Asia/Shanghai  # 时区设置
 
-# Outputting
-permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# 插件设置
+plugins:  # 启用的Jekyll插件
+  - jekyll-paginate  # 分页插件
+  - jekyll-sitemap  # 站点地图插件
+  - jekyll-gist  # GitHub Gist插件
+  - jekyll-feed  # RSS订阅插件
+  - jekyll-redirect-from  # 重定向插件
 
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
+# 安全模式白名单
+whitelist:  # 在安全模式下允许的插件
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
 
-
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+# HTML压缩设置
+compress_html:  # HTML压缩配置
+  clippings: all  # 压缩所有内容
+  ignore:  # 忽略压缩的环境
+    envs: development  # 开发环境不压缩
