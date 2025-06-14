@@ -137,7 +137,7 @@ WaterFormer: A Global-Local Transformer for Underwater Image Enhancement With En
 
 J. Wen, J. Cui, G. Yang, **B. Zhao**, Y. Zhai, Z. Gao, L. Dou and B. M. Chen
 
-- *Accepted at Robotics & Automation Magazine*, 2024 
+- *Accepted at IEEE Robotics & Automation Magazine*, 2024 
 - [**PDF**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415308)
 </div>
 </div>
