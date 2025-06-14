@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, there! This is Benyun Zhao (赵犇赟). I am a 3rd-year Ph.D. student in the [Department of Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/message-from-department-chairman/) at the Chinese University of Hong Kong (CUHK), where I obtained my Master's degree in 2021. I am a member of [Unmanned System Research (USR) group](http://www.mae.cuhk.edu.hk/~usr/) and [Hong Kong Centre for Logistics Robotics (HKCLR)](https://www.hkclr.hk/), supervised by [_Prof. Ben M. Chen_](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and luckily collaborating with [_Prof. Mark W. Mueller_](https://me.berkeley.edu/people/mark-w-mueller/) from [HiPeR Lab](https://hiperlab.berkeley.edu/) in UC Berkeley, [_Prof. Zhi Gao_](https://gaozhinuswhu.com/) from Wuhan Univeristy and [_Prof. Xi Chen_](https://www4.mae.cuhk.edu.hk/peoples/chen-xi/), [_Prof. Yun-hui Liu_](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/) from CUHK.
+Hi, there! This is Benyun Zhao (赵犇赟). I am a 3rd-year Ph.D. student in the [Department of Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/message-from-department-chairman/) at the Chinese University of Hong Kong (CUHK), where I obtained my Master's degree in 2021. I am a member of [Unmanned System Research (USR) group](http://www.mae.cuhk.edu.hk/~usr/) and [Hong Kong Centre for Logistics Robotics (HKCLR)](https://www.hkclr.hk/), supervised by [_Prof. Ben M. Chen_](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and luckily having the chance to collaborate with [_Prof. Mark W. Mueller_](https://me.berkeley.edu/people/mark-w-mueller/) from [HiPeR Lab](https://hiperlab.berkeley.edu/) in UC Berkeley, [_Prof. Zhi Gao_](https://gaozhinuswhu.com/) from Wuhan Univeristy and [_Prof. Xi Chen_](https://www4.mae.cuhk.edu.hk/peoples/chen-xi/), [_Prof. Yun-hui Liu_](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/) from CUHK.
 
 My work focuses on applications of computer vision based on unmanned systems, such as object detection and segmentation, VLM deployment, image enhancement, 3D scene understanding. I am open to collaborations and research opportunities. Please feel free to contact and discuss🌟. 
 
@@ -224,7 +224,7 @@ X Zhou, G. Yang, Y. Chen, C. Gao, **B. Zhao**, L. Li and B. M. Chen
 
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMB</div><img src='images/papers/cbm-taxonomy.PNG' alt="iros2023" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CBM</div><img src='images/papers/cbm-taxonomy.PNG' alt="iros2023" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Datasets and processing methods for boosting visual inspection of civil infrastructure: A comprehensive review and algorithm comparison for crack classification, segmentation, and detection
@@ -286,8 +286,6 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 - **Outstanding Undergraduate**, Jiangsu Ocean University, 2020
 - **First Class Annual Scholarship**, Jiangsu Ocean University, 2020, 2018, 2017
 - **First Class Annual Scholarship**, Nanjing Tech University, 2019
-<!-- - **Merit Student**, Jiangsu Ocean University, 2019 -->
-<!-- - **Competition-based Individual Scholarship**, Jiangsu Ocean University, 2019 -->
 - **Second Prize**, China RoboWork 2019 'Small Quadrotor Project', Shaoguan, 2019
 - **Champion**, Mechanical Manufacturing Competition Solar Power Car Project, Lianyungang, 2018
 
