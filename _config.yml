@@ -7,7 +7,7 @@
 # 站点基本设置
 title                    : "Benyun Zhao"                # 网站标题，显示在浏览器标签和SEO中
 description              : "Consistency is what transforms average to excellence."  # 网站描述，用于SEO和侧边栏简介
-repository               : "https://github.com/BenyunZhao/benyunzhao.github.io"  # 你的GitHub仓库地址，用于自动化部署等
+repository               : "BenyunZhao/benyunzhao.github.io"  # 只写 user/repo，不要加 https://  你的GitHub仓库地址，用于自动化部署等
 google_scholar_stats_use_cdn : false  # 是否使用CDN加载谷歌学术统计数据
 
 # Google Analytics（网站访问统计）
