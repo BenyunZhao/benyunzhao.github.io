@@ -26,7 +26,7 @@ My work focuses on applications of computer vision based on unmanned systems, su
 - *2025.06*: 🎉🎉 One paper is accpeted by [_Sustainable Cities and Society_](https://www.sciencedirect.com/science/article/abs/pii/S221067072500397X) journal.
 - *2025.05*: 💪💪 Our work [_Feature-Homogenized Gaussian Splatting_](https://fhgs.cuastro.org/), which submitted to *NeurIPS 2025*, is online now!!!
 - *2025.05*: 🎉🎉 I am horned to have a chance to visit [HiPeRLab](https://hiperlab.berkeley.edu/) in UC Berkeley and supervised by [Prof. Mark W. Mueller](https://me.berkeley.edu/people/mark-w-mueller/).
-- *2025.01*: 🎉🎉 Our three papers are accpeted by ICRA 2025, Atlanta, USA. 
+- *2025.01*: 🎉🎉 Three papers are accpeted by IEEE [_ICRA 2025 Atlanta_], USA. 
 
 # 📑 Selected Publications 
 **_Equal Contribution †, Corresponding author *_**
