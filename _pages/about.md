@@ -130,7 +130,7 @@ G. Yang, R. Cao, J. Wen, **B. Zhao**, Q. Li, Y. Huang, L. Lei, X. Chen, A. Lam, 
 
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-M</div><img src='images/papers/wf-ram.png' alt="icra2024" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-M</div><img src='images/papers/wf-ram.jpg' alt="icra2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 WaterFormer: A Global-Local Transformer for Underwater Image Enhancement With Environment Adaptor
