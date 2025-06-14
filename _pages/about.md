@@ -74,7 +74,7 @@ P. Zhou, S. Li, **B. Zhao**, B. Wahlberg, X. Hu
 
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BS</div><img src='images/papers/builsimu.jpg' alt="icra2025" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BS</div><img src='images/papers/builsimu.jpg' alt="icra2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 AI-empowered Digital Twin Modeling for High-precision Building Defect Management Integrating UAV and GeoBIM
@@ -83,7 +83,7 @@ J. Zhang, **B. Zhao***, G. Yang, X. Zhou, Y. Huang, C. Gao, X. Chen and B. M. Ch
 
 - *Accepted at Building Simulation*, 2025
 </div>
-</div>
+</div> -->
 
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
