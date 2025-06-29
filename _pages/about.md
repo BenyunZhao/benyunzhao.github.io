@@ -17,16 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, there! This is Benyun Zhao (赵犇赟). I am a 3rd-year Ph.D. student in the [Department of Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/message-from-department-chairman/) at the Chinese University of Hong Kong (CUHK), where I obtained my Master's degree in 2021. I am a member of [Unmanned System Research (USR) group](http://www.mae.cuhk.edu.hk/~usr/) and [Hong Kong Centre for Logistics Robotics (HKCLR)](https://www.hkclr.hk/), supervised by [_Prof. Ben M. Chen_](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and luckily having the chance to collaborate with [_Prof. Mark W. Mueller_](https://me.berkeley.edu/people/mark-w-mueller/) from [HiPeR Lab](https://hiperlab.berkeley.edu/) in UC Berkeley, [_Prof. Zhi Gao_](https://gaozhinuswhu.com/) from Wuhan Univeristy and [_Prof. Xi Chen_](https://www4.mae.cuhk.edu.hk/peoples/chen-xi/), [_Prof. Yun-hui Liu_](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/) from CUHK.
+Hi, there! This is Benyun Zhao (赵犇赟). I am a 3rd-year Ph.D. student in the [Department of Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/message-from-department-chairman/) at the Chinese University of Hong Kong (CUHK), where I obtained my Master's degree in 2021. I am a member of [Unmanned System Research (USR) group](http://www.mae.cuhk.edu.hk/~usr/) and [Hong Kong Centre for Logistics Robotics (HKCLR)](https://www.hkclr.hk/), supervised by [_Prof. Ben M. Chen_](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and luckily having the chance to collaborate with [_Prof. Mark W. Mueller_](https://me.berkeley.edu/people/mark-w-mueller/) from [HiPeRLab](https://hiperlab.berkeley.edu/) in UC Berkeley, [_Prof. Zhi Gao_](https://gaozhinuswhu.com/) from Wuhan Univeristy and [_Prof. Xi Chen_](https://www4.mae.cuhk.edu.hk/peoples/chen-xi/), [_Prof. Yun-hui Liu_](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/) from CUHK.
 
 My work focuses on applications of computer vision based on unmanned systems, such as object detection and segmentation, VLM deployment, image enhancement, 3D scene understanding. I am open to collaborations and research opportunities. Please feel free to contact and discuss🌟. 
 
 
 # 🔥 Latest News
-- *2025.06*: 🎉🎉 One paper is accpeted by [_Sustainable Cities and Society_](https://www.sciencedirect.com/science/article/abs/pii/S221067072500397X) journal.
+- *2025.06*: 🎉🎉 Two China Patent Certificates of our UAV [**CU-Astro**](https://www.cuastro.org/) are granted. 
+- *2025.06*: 🎉🎉 One paper is accpeted by [_**Sustainable Cities and Society**_](https://www.sciencedirect.com/science/article/abs/pii/S221067072500397X) journal.
 - *2025.05*: 💪💪 Our work [_Feature-Homogenized Gaussian Splatting_](https://fhgs.cuastro.org/), which submitted to *NeurIPS 2025*, is online now!!!
 - *2025.05*: 🎉🎉 I am horned to have a chance to visit [HiPeRLab](https://hiperlab.berkeley.edu/) in UC Berkeley and supervised by [Prof. Mark W. Mueller](https://me.berkeley.edu/people/mark-w-mueller/).
-- *2025.01*: 🎉🎉 Three papers are accpeted by IEEE _ICRA 2025 Atlanta_, GA, USA. 
+- *2025.01*: 🎉🎉 Three papers are accpeted by IEEE _**ICRA 2025 Atlanta**_, GA, USA. 
 
 # 📑 Selected Publications 
 **_Equal Contribution †, Corresponding author *_**
@@ -276,8 +277,8 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 
 # 🏆 Honors and Patents
 ##### Postgraduate
-- [**Utility Model Patent Certificate**](https://drive.google.com/file/d/14yFExCMMQA-coDnAwgSJXQCKZnC9vCQD/view?usp=sharing), China National Intellectual Property Administration, China, 2025
-- [**Design Patent Certificate**](https://drive.google.com/file/d/1oSwcUJ8WO1w6udAb37ok60T4bs7Z_W7Z/view?usp=sharing), China National Intellectual Property Administration, China, 2025
+- [**Utility Model Patent Certificate**](https://drive.google.com/file/d/14yFExCMMQA-coDnAwgSJXQCKZnC9vCQD/view?usp=sharing), China National Intellectual Property Administration, Shenzhen, 2025
+- [**Design Patent Certificate**](https://drive.google.com/file/d/1oSwcUJ8WO1w6udAb37ok60T4bs7Z_W7Z/view?usp=sharing), China National Intellectual Property Administration, Shenzhen, 2025
 - [**Gold Award & Best Business Potential Award**](https://www.cwisa.com/en/past-award-winners.html) - 💰HKD 105000, Chun Wo Innovation Student Awards, Hong Kong, 2023
 - [**Best Business Idea Award**](https://daretochange.ydc.org.hk/en/showcase-urbannet.aspx) - 💰HKD 15000, YDC Dare To Change Business Pitch Competition, Hong Kong, 2023
 - [**Champion**](https://drive.google.com/file/d/1oXJRMmwQ0JW0GVwd5Gdb2-vpBGcsLBBM/view?usp=drive_link) - 💰HKD 18000, Professor Charles K. Ko Student Creativity Award, Hong Kong, 2023
