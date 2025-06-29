@@ -37,9 +37,9 @@ My work focuses on applications of computer vision based on unmanned systems, su
 
 FHGS: Feature-Homogenized Gaussian Splatting
 
-Q. Duan†, **B. Zhao**†, M. Han†, Y. Huang,a nd B. M. Chen
+Q. Duan†, **B. Zhao**†, M. Han†, Y. Huang, and B. M. Chen
 
-- *Submitted to NeurIPS 2025 San Diego*
+- Submitted to _**NeurIPS 2025 San Diego**_ 
 - [**Project**](https://fhgs.cuastro.org/), [**PDF**](https://arxiv.org/abs/2505.19154)
 </div>
 </div>
@@ -53,7 +53,7 @@ Autonomous Building Material Stock Estimation using 3D Modeling and Multilayer P
 
 Q. Li, **B. Zhao***, X. Wang, G. Yang, X. Chen and B. M. Chen
 
-- *Accepted at Sustainable Cities and Society*, 2025
+- Accepted at _**Sustainable Cities and Society**_, 2025
 - [**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S221067072500397X)
 </div>
 </div>
@@ -67,7 +67,7 @@ Nature-inspired Dynamic Control for Pursuit-evasion of Robots
 
 P. Zhou, S. Li, **B. Zhao**, B. Wahlberg, X. Hu
 
-- *Accepted at Automatica*, 2025
+- Accepted at _**Automatica**_, 2025
 - [**PDF**](https://arxiv.org/abs/2410.16829)
 </div>
 </div>
@@ -81,7 +81,7 @@ AI-empowered Digital Twin Modeling for High-precision Building Defect Management
 
 J. Zhang, **B. Zhao***, G. Yang, X. Zhou, Y. Huang, C. Gao, X. Chen and B. M. Chen
 
-- *Accepted at Building Simulation*, 2025
+- Accepted at _**Building Simulation**_, 2025
 </div>
 </div> -->
 
@@ -94,7 +94,7 @@ Lightweight yet High-Performance Defect Detector for UAV-Based Large-Scale Infra
 
 **B. Zhao**, Q. Duan, G. Yang, H. J. Tang, Z. Song, J. Wen, X. Liu, Q. Li, L. Lei, J. Zhang, X. Chen, M. W. Mueller, and B. M. Chen
 
-- *Accepted at ICRA 2025 Atlanta, Aerial Robotics Tracking* <span class="rucred">Oral</span>
+- Accepted at _**ICRA 2025 Atlanta**_, Aerial Robotics Tracking <span class="rucred">Oral</span>
 - [**Code**](https://github.com/ZHAOBenyun/CUPID-defect-detector), [**Video**](https://drive.google.com/file/d/1aF60K5ictHUmy_rjEovKXsbXMP1cjLZ5/view) 
 </div>
 </div>
@@ -108,7 +108,7 @@ End-to-End Underwater Multi-View Stereo for Dense Scene Reconstruction
 
 G. Yang, J. Wen, **B. Zhao**, Y. Huang, L. Lei, X. Chen, A. Lam, and B. M. Chen
 
-- *Accepted at ICRA 2025 Atlanta, Underwater Robotics Tracking* <span class="rucred">Oral</span>
+- Accepted at _**ICRA 2025 Atlanta**_, Underwater Robotics Tracking <span class="rucred">Oral</span>
 - [**Project**](https://cuhk-usr-group.github.io/UwMVS/)
 </div>
 </div>
@@ -122,7 +122,7 @@ Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction
 
 G. Yang, R. Cao, J. Wen, **B. Zhao**, Q. Li, Y. Huang, L. Lei, X. Chen, A. Lam, Y. Liu and B. M. Chen
 
-- *Accepted at ICRA 2025 Atlanta, Aerial Robotics Tracking* <span class="rucred">Oral</span>
+- Accepted at _**ICRA 2025 Atlanta**_, Aerial Robotics Tracking <span class="rucred">Oral</span>
 - [**Project**](https://cuhk-usr-group.github.io/GE-MVS/)
 </div>
 </div>
@@ -137,7 +137,7 @@ WaterFormer: A Global-Local Transformer for Underwater Image Enhancement With En
 
 J. Wen, J. Cui, G. Yang, **B. Zhao**, Y. Zhai, Z. Gao, L. Dou and B. M. Chen
 
-- *Accepted at IEEE Robotics & Automation Magazine*, 2024 
+- Accepted at _**IEEE Robotics & Automation Magazine**_, 2024 
 - [**PDF**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415308)
 </div>
 </div>
@@ -150,7 +150,7 @@ Det-Recon-Reg: An Intelligent Framework Towards Automated Large-Scale Infrastruc
 
 G. Yang†, J. Zhang†, **B. Zhao**†, C. Gao, Y. Huang, J. Wen, Q. Li, H. J. Tang, X. Chen and B. M. Chen
 
-- *Accpeted at IROS 2024 Abu Dhabi, Aerial Robotics Tracking* <span class="rucred">Oral</span>
+- Accpeted at _**IROS 2024 Abu Dhabi**_, Aerial Robotics Tracking <span class="rucred">Oral</span>
 - [**Project**](https://cuhk-usr-group.github.io/large-scale-inspect-framework/), [**PDF**](https://ieeexplore.ieee.org/document/10802463)
 </div>
 </div>
@@ -163,7 +163,7 @@ EnYOLO: A Real-Time Framework for Domain-Adaptive Underwater Object Detection wi
 
 J. Wen, J. Cui, **B. Zhao**, B. Han, X. Liu, Z. Gao and B. M. Chen
 
-- *Accepted at ICRA 2024 Yokohama, Underwater Robotics Tracking* <span class="rucred">Oral</span>
+- Accepted at _**ICRA 2024 Yokohama**_, Underwater Robotics Tracking <span class="rucred">Oral</span>
 - [**PDF**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610639)
 </div>
 </div>
@@ -176,7 +176,7 @@ SANet: Small but Accurate Detector for Aerial Flying Object
 
 X. Zhou, **B. Zhao***, G. Yang, J. Zhang, L. Li and B. M. Chen
 
-- *Accepted at ICRA 2024 Yokohama, Aerial Robotics Tracking* <span class="rucred">Oral</span>
+- Accepted at _**ICRA 2024 Yokohama**_, Aerial Robotics Tracking <span class="rucred">Oral</span>
 - [**PDF**](https://ieeexplore.ieee.org/document/10611606)
 </div>
 </div>
@@ -189,7 +189,7 @@ High-resolution infrastructure defect detection dataset sourced by unmanned syst
 
  **B. Zhao**, X. Zhou, G. Yang, J. Wen, J. Zhang, J. Dou, G. Li, X. Chen and B. M. Chen
 
-- *Accepted at Automation in Construction*, 2024
+- Accepted at _**Automation in Construction**_, 2024
 - [**PDF**](https://www.sciencedirect.com/science/article/abs/pii/S0926580524001419?via%3Dihub), [**Code**](https://github.com/ZHAOBenyun/CUBIT)
 </div>
 </div>
@@ -203,7 +203,7 @@ Multi-View Stereo with Learnable Cost Metric
 
 G. Yang, X Zhou, C. Gao, **B. Zhao**, J. Zhang, Y. Chen, X. Chen and B. M. Chen
 
-- *Accpeted at IROS 2023 Detroit, Aerial Robotics Tracking* <span class="rucred">Oral</span>
+- Accpeted at _**IROS 2023 Detroit**_, Aerial Robotics Tracking <span class="rucred">Oral</span>
 - [**PDF**](https://ieeexplore.ieee.org/abstract/document/10341606)
 </div>
 </div>
@@ -217,7 +217,7 @@ ADMNet: Anti-Drone Real-Time Detection and Monitoring
 
 X Zhou, G. Yang, Y. Chen, C. Gao, **B. Zhao**, L. Li and B. M. Chen
 
-- *Accpeted at IROS 2023 Detroit, Aerial Robotics Tracking* <span class="rucred">Oral</span>
+- Accpeted at _**IROS 2023 Detroit**_, Aerial Robotics Tracking <span class="rucred">Oral</span>
 - [**PDF**](https://ieeexplore.ieee.org/abstract/document/10341901/)
 </div>
 </div>
@@ -231,7 +231,7 @@ Datasets and processing methods for boosting visual inspection of civil infrastr
 
 G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 
-- *Accpeted at Construction and Building Materials*, 2022
+- Accpeted at _**Construction and Building Materials**_, 2022
 - [**PDF**](https://www.sciencedirect.com/science/article/pii/S0950061822028823)
 </div>
 </div>
@@ -274,11 +274,13 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 - *2017.06 - 2017.08*, **Mechanical Engineer Intern**, [SINOPEC Jinling Company](http://jlpec.sinopec.com/jlpec/), Nanjing, China.
 
 
-# 🏆 Honors and Awards
+# 🏆 Honors and Patents
 ##### Postgraduate
+- [**Utility Model Patent Certificate**](https://drive.google.com/file/d/14yFExCMMQA-coDnAwgSJXQCKZnC9vCQD/view?usp=sharing), China National Intellectual Property Administration, China, 2025
+- [**Design Patent Certificate**](https://drive.google.com/file/d/1oSwcUJ8WO1w6udAb37ok60T4bs7Z_W7Z/view?usp=sharing), China National Intellectual Property Administration, China, 2025
 - [**Gold Award & Best Business Potential Award**](https://www.cwisa.com/en/past-award-winners.html) - 💰HKD 105000, Chun Wo Innovation Student Awards, Hong Kong, 2023
 - [**Best Business Idea Award**](https://daretochange.ydc.org.hk/en/showcase-urbannet.aspx) - 💰HKD 15000, YDC Dare To Change Business Pitch Competition, Hong Kong, 2023
-- [**Champion**](https://www.orkts.cuhk.edu.hk/en/news-events/announcements/3735-event-highlight-professor-charles-k-kao-student-creativity-awards-pckksca-prize-presentation-ceremony-1-june-2023) - 💰HKD 18000, Professor Charles K. Ko Student Creativity Award, Hong Kong, 2023
+- [**Champion**](https://drive.google.com/file/d/1oXJRMmwQ0JW0GVwd5Gdb2-vpBGcsLBBM/view?usp=drive_link) - 💰HKD 18000, Professor Charles K. Ko Student Creativity Award, Hong Kong, 2023
 - [**Bronze Medal**](https://ifia.com/the-48th-international-exhibition-of-inventions-in-geneva-was-held-with-success/), 48th Geneva International Exhibition of Inventions, Geneva, Switzerland, 2023
 - **Postgraduate Studentship**, The Chinese University of Hong Kong, Hong Kong, 2022-2026
 
