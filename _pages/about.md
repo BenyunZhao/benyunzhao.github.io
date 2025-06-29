@@ -279,7 +279,7 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 ##### Postgraduate
 - [**Utility Model Patent Certificate**](https://drive.google.com/file/d/14yFExCMMQA-coDnAwgSJXQCKZnC9vCQD/view?usp=sharing), China National Intellectual Property Administration, Shenzhen, 2025
 - [**Design Patent Certificate**](https://drive.google.com/file/d/1oSwcUJ8WO1w6udAb37ok60T4bs7Z_W7Z/view?usp=sharing), China National Intellectual Property Administration, Shenzhen, 2025
-- [**Gold Award & Best Business Potential Award**](https://www.cwisa.com/en/past-award-winners.html) - 💰HKD 105000, Chun Wo Innovation Student Awards, Hong Kong, 2023
+- [**Gold Award & Best Business Potential Award**](https://www.cwisa.com/en/past-award-winners.html) - 💰HKD 100000 & 💰HKD 5000, Chun Wo Innovation Student Awards, Hong Kong, 2023
 - [**Best Business Idea Award**](https://daretochange.ydc.org.hk/en/showcase-urbannet.aspx) - 💰HKD 15000, YDC Dare To Change Business Pitch Competition, Hong Kong, 2023
 - [**Champion**](https://drive.google.com/file/d/1oXJRMmwQ0JW0GVwd5Gdb2-vpBGcsLBBM/view?usp=drive_link) - 💰HKD 18000, Professor Charles K. Ko Student Creativity Award, Hong Kong, 2023
 - [**Bronze Medal**](https://ifia.com/the-48th-international-exhibition-of-inventions-in-geneva-was-held-with-success/), 48th Geneva International Exhibition of Inventions, Geneva, Switzerland, 2023
@@ -293,8 +293,8 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 - **Champion**, Mechanical Manufacturing Competition Solar Power Car Project, Lianyungang, 2018
 
 # 📝 Academic Reviewer
-- *Journal Reviewer*: IEEE T-Cyber, T-ASE, Sensors Journal; Expert Systems with Applications (ESWA); Automation in Construction (AIC); Advanced Engineering Informatics (AEI); Construction and Building Materials (CBM); Unmanned Systems; Scientific Reports; Journal of Supercomputing; Signal, Image and Video Processing
-- *Conference Reviewer*:  IEEE ICRA2025 2024; IEEE ISER2025; IEEE IROS2024; IEEE ICCA2024 2023
+- *Journal Reviewer*: _IEEE T-Cyber_; _IEEE T-ASE_; _IEEE Sensors Journal_; _International Journal of Applied Earth Observation and Geoinformation_ (JAG); _Automation in Construction_ (AIC); _Advanced Engineering Informatics_ (AEI); _Expert Systems with Applications_ (ESWA); _Construction and Building Materials_ (CBM); _Heritage Science_; _Unmanned Systems_; _Scientific Reports_; _Journal of Supercomputing_; _Signal, Image and Video Processing_
+- *Conference Reviewer*:  IEEE ICRA 2025&2024; IEEE ISER 2025; IEEE IROS 2024; IEEE ICCA 2024&2023
 
 
 # 💬 Invited Conference 
