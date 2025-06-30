@@ -23,10 +23,11 @@ My work focuses on applications of computer vision based on unmanned systems, su
 
 
 # 🔥 Latest News
-- *2025.06*: 🎉🎉 Two China Patent Certificates of our UAV [**CU-Astro**](https://www.cuastro.org/) are granted. 
+- *2025.06*: 🎉🎉 Two China Patents of our UAV [**CU-Astro**](https://www.cuastro.org/) are granted. 
 - *2025.06*: 🎉🎉 One paper is accpeted by [_**Sustainable Cities and Society**_](https://www.sciencedirect.com/science/article/abs/pii/S221067072500397X) journal.
 - *2025.05*: 💪💪 Our work [_Feature-Homogenized Gaussian Splatting_](https://fhgs.cuastro.org/), which submitted to *NeurIPS 2025*, is online now!!!
 - *2025.05*: 🎉🎉 I am horned to have a chance to visit [HiPeRLab](https://hiperlab.berkeley.edu/) in UC Berkeley and supervised by [Prof. Mark W. Mueller](https://me.berkeley.edu/people/mark-w-mueller/).
+- *2025.01*: 🎉🎉 One US Patent of our [**3D reconstruction technology**](https://patents.google.com/patent/US20250022153A1/en) is granted.
 - *2025.01*: 🎉🎉 Three papers are accpeted by IEEE _**ICRA 2025 Atlanta**_, GA, USA. 
 
 # 📑 Selected Publications 
@@ -279,6 +280,7 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 ##### Postgraduate
 - [**Utility Model Patent Certificate**](https://drive.google.com/file/d/14yFExCMMQA-coDnAwgSJXQCKZnC9vCQD/view?usp=sharing), China National Intellectual Property Administration, Shenzhen, 2025
 - [**Design Patent Certificate**](https://drive.google.com/file/d/1oSwcUJ8WO1w6udAb37ok60T4bs7Z_W7Z/view?usp=sharing), China National Intellectual Property Administration, Shenzhen, 2025
+- [**3D Reconstruction US Patent**](https://patents.google.com/patent/US20250022153A1/en), US Patent and Trademark Office, Hong Kong, 2025
 - [**Gold Award & Best Business Potential Award**](https://www.cwisa.com/en/past-award-winners.html) - 💰HKD 100000 & 💰HKD 5000, Chun Wo Innovation Student Awards, Hong Kong, 2023
 - [**Best Business Idea Award**](https://daretochange.ydc.org.hk/en/showcase-urbannet.aspx) - 💰HKD 15000, YDC Dare To Change Business Pitch Competition, Hong Kong, 2023
 - [**Champion**](https://drive.google.com/file/d/1oXJRMmwQ0JW0GVwd5Gdb2-vpBGcsLBBM/view?usp=drive_link) - 💰HKD 18000, Professor Charles K. Ko Student Creativity Award, Hong Kong, 2023
