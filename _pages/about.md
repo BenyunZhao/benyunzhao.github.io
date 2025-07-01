@@ -254,8 +254,8 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 # 💼 Working and Internships
 - *2025.01 - 2025.05*, **Teaching Assistant** of ESTR1006 Multivariable Calculus (2024-2025 Semester 2), Instructor: [Prof. Dongkun Han](https://www4.mae.cuhk.edu.hk/peoples/han-dongkun/), The Chinese University of Hong Kong, Hong Kong.
 - *2024.09 - 2025.12*, **Teaching Assistant** of MAEG4040 Mechatronic System (2024-2025 Semester 1), Instructor: [Prof. Xin Ma](https://mee.sustech.edu.cn/en/jiaozhiyuangong/3683.html), The Chinese University of Hong Kong, Hong Kong.
-- *2024.09 - 2025.06*, **Teaching Assistant** of MAEG4998 Undergraduate Final Year Project,, Instructor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), The Chinese University of Hong Kong, Hong Kong.
-    - Deep Learning-Based Detection and Segmentation of Building Façade Defects and Components: From Dataset Establishment to Drone Experiments [(Student: Katerina Yim, who awarded Champion of VTech Innovation & Sustainability Award 2025)](https://drive.google.com/file/d/1gCyErSA3UgEtgpgu9WdSu_tpe2qe-Njk/view?usp=drive_link)
+- *2024.09 - 2025.06*, **Teaching Assistant** of MAEG4998 Undergraduate Final Year Project, Instructor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), The Chinese University of Hong Kong, Hong Kong.
+    - Deep Learning-Based Detection and Segmentation of Building Façade Defects and Components: From Dataset Establishment to Drone Experiments [(Student: Katerina Yim, who won Champion of 'VTech Innovation & Sustainability Award 2025')](https://drive.google.com/file/d/1gCyErSA3UgEtgpgu9WdSu_tpe2qe-Njk/view?usp=drive_link)
 
 
 - *2024.01 - 2024.05*, **Teaching Assistant** of ESTR1006 Multivariable Calculus (2023-2024 Semester 2), Instructor: [Prof. Dongkun Han](https://www4.mae.cuhk.edu.hk/peoples/han-dongkun/), The Chinese University of Hong Kong, Hong Kong. 
