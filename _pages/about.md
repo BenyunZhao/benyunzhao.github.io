@@ -23,9 +23,11 @@ My work focuses on applications of computer vision based on unmanned systems, su
 
 
 # 🔥 Latest News
+- *2025.07*: 🎉🎉 One paper is accpeted by [_**Building Simulation**_](https://www.sciencedirect.com/science/article/abs/pii/S221067072500397X) journal. 
+- *2025.06*: 🎉🎉 One paper is accpeted by [_**Sustainable Cities and Society**_](https://www.sciencedirect.com/science/article/abs/pii/S221067072500397X) journal.
 - *2025.06*: 🎉🎉 Two China Patents of our UAV [**CU-Astro**](https://www.cuastro.org/) are granted. 
 - *2025.06*: 🎉🎉 One paper is accpeted by [_**Sustainable Cities and Society**_](https://www.sciencedirect.com/science/article/abs/pii/S221067072500397X) journal.
-- *2025.05*: 💪💪 Our work [_Feature-Homogenized Gaussian Splatting_](https://fhgs.cuastro.org/), which submitted to *NeurIPS 2025*, is online now!!!
+- *2025.05*: 💪💪 Our work [**Feature-Homogenized Gaussian Splatting**](https://fhgs.cuastro.org/), which submitted to *NeurIPS 2025*, is online now!!!
 - *2025.05*: 🎉🎉 I am horned to have a chance to visit [HiPeRLab](https://hiperlab.berkeley.edu/) in UC Berkeley and supervised by [Prof. Mark W. Mueller](https://me.berkeley.edu/people/mark-w-mueller/).
 - *2025.01*: 🎉🎉 One US Patent of our [**3D reconstruction technology**](https://patents.google.com/patent/US20250022153A1/en) is granted.
 - *2025.01*: 🎉🎉 Three papers are accpeted by IEEE _**ICRA 2025 Atlanta**_, GA, USA. 
@@ -34,7 +36,7 @@ My work focuses on applications of computer vision based on unmanned systems, su
 **_Equal Contribution †, Corresponding author *_**
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/fhgs.png' alt="icra2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/fhgs.png' alt="nips2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FHGS: Feature-Homogenized Gaussian Splatting
@@ -46,9 +48,21 @@ Q. Duan†, **B. Zhao**†, M. Han†, Y. Huang, and B. M. Chen
 </div>
 </div>
 
+<!-- ##### ------------------- split paper ------------------- #####  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BS</div><img src='images/papers/builsimu.jpg' alt="BS2025" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+AI-empowered Digital Twin Modeling for High-precision Building Defect Management Integrating UAV and GeoBIM
+
+J. Zhang, **B. Zhao***, G. Yang, X. Zhou, Y. Huang, C. Gao, X. Chen and B. M. Chen
+
+- Accepted at _**Building Simulation**_, 2025
+</div>
+</div>
+
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCS</div><img src='images/papers/bmb.png' alt="icra2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCS</div><img src='images/papers/bmb.png' alt="SCS2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Autonomous Building Material Stock Estimation using 3D Modeling and Multilayer Perceptron
@@ -62,7 +76,7 @@ Q. Li, **B. Zhao***, X. Wang, G. Yang, X. Chen and B. M. Chen
 
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica</div><img src='images/papers/automatica.png' alt="icra2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automatica</div><img src='images/papers/automatica.png' alt="Auto2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Nature-inspired Dynamic Control for Pursuit-evasion of Robots
@@ -76,20 +90,7 @@ P. Zhou, S. Li, **B. Zhao**, B. Wahlberg, X. Hu
 
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BS</div><img src='images/papers/builsimu.jpg' alt="icra2025" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-AI-empowered Digital Twin Modeling for High-precision Building Defect Management Integrating UAV and GeoBIM
-
-J. Zhang, **B. Zhao***, G. Yang, X. Zhou, Y. Huang, C. Gao, X. Chen and B. M. Chen
-
-- Accepted at _**Building Simulation**_, 2025
-</div>
-</div> -->
-
-
-<!-- ##### ------------------- split paper ------------------- #####  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/icra2025.png' alt="icra2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/icra2025.png' alt="icra2025-det" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Lightweight yet High-Performance Defect Detector for UAV-Based Large-Scale Infrastructure Real-Time Inspection
@@ -103,7 +104,7 @@ Lightweight yet High-Performance Defect Detector for UAV-Based Large-Scale Infra
 
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/puis-icra.png' alt="icra2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/puis-icra.png' alt="icra2025-uw" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 End-to-End Underwater Multi-View Stereo for Dense Scene Reconstruction
@@ -117,7 +118,7 @@ G. Yang, J. Wen, **B. Zhao**, Y. Huang, L. Lei, X. Chen, A. Lam, and B. M. Chen
 
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/gemvs-icra.png' alt="icra2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/gemvs-icra.png' alt="icra2025-mvs" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction
@@ -132,7 +133,7 @@ G. Yang, R. Cao, J. Wen, **B. Zhao**, Q. Li, Y. Huang, L. Lei, X. Chen, A. Lam, 
 
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-M</div><img src='images/papers/wf-ram.jpg' alt="icra2024" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-M</div><img src='images/papers/wf-ram.jpg' alt="ram2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 WaterFormer: A Global-Local Transformer for Underwater Image Enhancement With Environment Adaptor
@@ -295,8 +296,8 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 - **Champion**, Mechanical Manufacturing Competition Solar Power Car Project, Lianyungang, 2018
 
 # 📝 Academic Reviewer
-- *Journal Reviewer*: _IEEE T-Cyber_; _IEEE T-ASE_; _IEEE Sensors Journal_; _International Journal of Applied Earth Observation and Geoinformation_ (JAG); _Automation in Construction_ (AIC); _Advanced Engineering Informatics_ (AEI); _Expert Systems with Applications_ (ESWA); _Construction and Building Materials_ (CBM); _Heritage Science_; _Unmanned Systems_; _Scientific Reports_; _Journal of Supercomputing_; _Signal, Image and Video Processing_
-- *Conference Reviewer*:  IEEE ICRA 2025&2024; IEEE ISER 2025; IEEE IROS 2024; IEEE ICCA 2024&2023
+- Journal Reviewer: _**IEEE**_ T-ASE, T-Cyber, Sensors Journal; _**Elsevier**_ Pattern Recognition (_PR_), International Journal of Applied Earth Observation and Geoinformation (_JAG_), Automation in Construction (_AIC_), Advanced Engineering Informatics (_AEI_), Expert Systems with Applications (_ESWA_), Construction and Building Materials (_CBM_); _**Springer Nature**_ Heritage Science, Scientific Reports, Journal of Supercomputing, Signal Image and Video Processing; _**World Scientific**_ Unmanned Systems
+- Conference Reviewer:  _**IEEE**_ ICRA 2025&2024, ISER 2025, IROS 2024, ICCA 2024&2023
 
 
 # 💬 Invited Conference 
@@ -312,10 +313,10 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 
 <footer class="site-footer">
   <p>&copy; 2025 Benyun Zhao. All rights reserved.</p>
-  <p>
+  <!-- <p>
     Template adapted from
     <a href="https://github.com/RayeRen/acad-homepage.github.io"
        target="_blank" rel="noopener">Yi Ren</a>.
-  </p>
+  </p> -->
 </footer>
 
