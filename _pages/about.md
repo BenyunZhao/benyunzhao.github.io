@@ -296,7 +296,7 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 - **Champion**, Mechanical Manufacturing Competition Solar Power Car Project, Lianyungang, 2018
 
 # 📝 Academic Reviewer
-- Journal Reviewer: _**IEEE**_ T-ASE, T-Cyber, Sensors Journal; _**Elsevier**_ Pattern Recognition (_PR_), International Journal of Applied Earth Observation and Geoinformation (_JAG_), Automation in Construction (_AIC_), Advanced Engineering Informatics (_AEI_), Expert Systems with Applications (_ESWA_), Construction and Building Materials (_CBM_); _**Springer Nature**_ Heritage Science, Scientific Reports, Journal of Supercomputing, Signal Image and Video Processing; _**Oxford University Press**_ Journal of Computational Design and Engineering (_JCDE_); _**World Scientific**_ Unmanned Systems;
+- Journal Reviewer: _**IEEE**_ T-ASE, T-SMC, T-Cyber, T-CSVT, Sensors Journal; _**Elsevier**_ Pattern Recognition (_PR_), International Journal of Applied Earth Observation and Geoinformation (_JAG_), Automation in Construction (_AIC_), Advanced Engineering Informatics (_AEI_), Expert Systems with Applications (_ESWA_), Construction and Building Materials (_CBM_), Journal of the Franklin Institute (_FI_), Journal of Cleaner Production (_JClePro_); _**Springer Nature**_ Heritage Science, Scientific Reports, Journal of Supercomputing, Signal Image and Video Processing; _**Oxford University Press**_ Journal of Computational Design and Engineering (_JCDE_); _**World Scientific**_ Unmanned Systems;
 - Conference Reviewer:  _**IEEE**_ ICRA 2025&2024, ISER 2025, IROS 2024, ICCA 2024&2023
 
 
