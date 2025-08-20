@@ -21,6 +21,8 @@ Hi, there! This is Benyun Zhao (赵犇赟). I am a 3rd-year Ph.D. student in the
 
 My work focuses on engineering applications of computer vision based on unmanned systems in various fields, such as object detection, instance segmentation, VLM deployment, image enhancement, 3D scene understanding in Infrastructure, Underwater and Enviromental scenes. I am also open to collaborations and research opportunities. Please feel free to contact and discuss🌟.
 
+Email: benyunzhao[at]berkeley.edu; byzhao[at]mae.cuhk.edu.hk
+
 
 # 🔥 Latest News
 - *2025.07*: 🎉🎉 One paper is accpeted by [_**Building Simulation**_](https://www.sciencedirect.com/science/article/abs/pii/S221067072500397X) journal. 

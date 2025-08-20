@@ -36,13 +36,13 @@ author:
   flickr           :  # Flickr账号
   facebook         :  # Facebook账号
   foursquare       :  # Foursquare账号
-  github           :  "https://github.com/BenyunZhao" 
-  google_plus      :  # Google+账号
+  github           :  "BenyunZhao" 
+  google_plus      :  "benyunzhao@gmail.com"
   keybase          :  # Keybase账号
   instagram        :  # Instagram账号
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"  # ImpactStory主页www.linkedin.com/in/
   lastfm           :  # Last.fm账号
-  linkedin         : "www.linkedin.com/in/benyun-zhao"  # LinkedIn主页
+  linkedin         : "benyun-zhao"  # LinkedIn主页
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"  # DBLP主页
   orcid            : "https://orcid.org/0009-0008-7298-2927"  # ORCID ID
   pinterest        :  # Pinterest账号
