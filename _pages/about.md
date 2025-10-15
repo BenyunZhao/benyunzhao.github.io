@@ -23,6 +23,8 @@ My work focuses on engineering applications of computer vision based on unmanned
 
 
 # 🔥 Latest News
+- *2025.10*: 🎉🎉 One paper is accpeted by [_**IEEE T-ASE**_](https://ieeexplore.ieee.org/abstract/document/11196966). 
+- *2025.10*: 🎉🎉 Our work [**Feature-Homogenized Gaussian Splatting**](https://fhgs.cuastro.org/) is accepet by *NeurIPS 2025*.
 - *2025.07*: 🎉🎉 One paper is accpeted by [_**IEEE T-GRS**_](https://ieeexplore.ieee.org/abstract/document/11087443) and [_**IEEE T-IM**_](https://ieeexplore.ieee.org/abstract/document/11007070). 
 - *2025.07*: 🎉🎉 One paper is accpeted by [_**Building Simulation**_](https://www.sciencedirect.com/science/article/abs/pii/S221067072500397X) journal. 
 - *2025.06*: 🎉🎉 One paper is accpeted by [_**Sustainable Cities and Society**_](https://www.sciencedirect.com/science/article/abs/pii/S221067072500397X) journal.
@@ -44,7 +46,7 @@ FHGS: Feature-Homogenized Gaussian Splatting
 
 Q. Duan†, **B. Zhao**†, M. Han†, Y. Huang, and B. M. Chen
 
-- Submitted to _**NeurIPS 2025 San Diego**_ 
+- Accepted at _**NeurIPS 2025 San Diego**_, Machine Learning Tracking
 - [**Project**](https://fhgs.cuastro.org/), [**PDF**](https://arxiv.org/abs/2505.19154)
 </div>
 </div>
@@ -297,7 +299,7 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 - **Champion**, Mechanical Manufacturing Competition Solar Power Car Project, Lianyungang, 2018
 
 # 📝 Academic Reviewer
-- Journal Reviewer: _**IEEE**_ T-ASE, T-SMC, T-Cyber, T-CSVT, Sensors Journal; _**Elsevier**_ Pattern Recognition (_PR_), International Journal of Applied Earth Observation and Geoinformation (_JAG_), Automation in Construction (_AIC_), Advanced Engineering Informatics (_AEI_), Expert Systems with Applications (_ESWA_), Construction and Building Materials (_CBM_), Journal of the Franklin Institute (_FI_), Journal of Cleaner Production (_JClePro_); _**Springer Nature**_ Heritage Science, Scientific Reports, Journal of Supercomputing, Signal Image and Video Processing, Discover Artificial Intelligence; _**Oxford University Press**_ Journal of Computational Design and Engineering (_JCDE_); _**World Scientific**_ Unmanned Systems;
+- Journal Reviewer: _**IEEE**_ T-ASE, T-SMC, T-Cyber, T-GRS, JSTARS, T-CSVT, Sensors Journal; _**Elsevier**_ Pattern Recognition (_PR_), International Journal of Applied Earth Observation and Geoinformation (_JAG_), Automation in Construction (_AIC_), Advanced Engineering Informatics (_AEI_), Expert Systems with Applications (_ESWA_), Construction and Building Materials (_CBM_), Journal of the Franklin Institute (_FI_), Journal of Cleaner Production (_JClePro_), Journal of Building Engineering (_JBE_); _**Springer Nature**_ Heritage Science, Scientific Reports, Journal of Supercomputing, Signal Image and Video Processing, Discover Artificial Intelligence; _**Oxford University Press**_ Journal of Computational Design and Engineering (_JCDE_); _**World Scientific**_ Unmanned Systems; _**Stage Jounrals**_ Journal of Engineering for the Maritime Environment
 - Conference Reviewer:  _**IEEE**_ ICRA 2025&2024, ISER 2025, IROS 2024, ICCA 2024&2023
 
 
