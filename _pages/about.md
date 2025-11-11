@@ -299,12 +299,19 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 - **Champion**, Mechanical Manufacturing Competition Solar Power Car Project, Lianyungang, 2018
 
 # 📝 Academic Reviewer
-- Journal Reviewer: _**IEEE**_ T-ASE, T-SMC, T-Cyber, T-GRS, JSTARS, T-CSVT, Sensors Journal; _**Elsevier**_ Pattern Recognition (_PR_), International Journal of Applied Earth Observation and Geoinformation (_JAG_), Automation in Construction (_AIC_), Advanced Engineering Informatics (_AEI_), Expert Systems with Applications (_ESWA_), Neural Network, Construction and Building Materials (_CBM_), Journal of the Franklin Institute (_FI_), Journal of Cleaner Production (_JClePro_), Journal of Building Engineering (_JBE_); _**Springer Nature**_ Heritage Science, Scientific Reports, Journal of Supercomputing, Signal Image and Video Processing, Discover Artificial Intelligence; _**Oxford University Press**_ Journal of Computational Design and Engineering (_JCDE_); _**World Scientific**_ Unmanned Systems; _**Stage Jounrals**_ Journal of Engineering for the Maritime Environment
-- Conference Reviewer:  _**IEEE**_ ICRA 2025&2024, ISER 2025, IROS 2024, ICCA 2024&2023
+- _**IEEE Journal**_: T-IP; T-SMC; T-ASE; T-GRS; T-CSVT; T-Cyber; JSTARS; Sensors; Access 
+- _**Elsevier**_: Pattern Recognition (_PR_); International Journal of Applied Earth Observation and Geoinformation (_JAG_); Automation in Construction (_AIC_); Advanced Engineering Informatics (_AEI_); Expert Systems with Applications (_ESWA_); Neural Networks (_NeuNet_); Construction and Building Materials (_CBM_); Journal of the Franklin Institute (_JFI_); Journal of Cleaner Production (_JClePro_); Journal of Building Engineering (_JBE_); Robotics and Autonomous Systems (_RAS_)
+- _**Springer Nature**_: Heritage Science; Scientific Reports; Pattern Analysis and Applications; Journal of Supercomputing; Discover Artificial Intelligence; Signal, Image and Video Processing
+- _**Oxford University Press**_: Journal of Computational Design and Engineering (_JCDE_)
+- _**World Scientific**_: Unmanned Systems
+- _**Stage Jounrals**_: Journal of Engineering for the Maritime Environment
+
+- _**IEEE Conference**_: ICRA 2025; ISER 2025; ICRA 2024; IROS 2024; ICCA 2024; ICCA 2023
 
 
 # 💬 Invited Conference 
-- *2023.07*: International Symposium on Cooperative Autonomous Systems, at [Pengcheng Laboratory](https://www.pcl.ac.cn/), chaired by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) and [Prof. Hugh Liu](https://www.flight.utias.utoronto.ca/fsc/index.php/team)
+- *2025.10*: 2025 International Symposium on Cooperative Autonomous Systems (ISCAS 2025), at [Pengcheng Laboratory](https://www.pcl.ac.cn/), chaired by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm).
+- *2023.07*: 2023 International Symposium on Cooperative Autonomous Systems (ISCAS 2023), at [Pengcheng Laboratory](https://www.pcl.ac.cn/), chaired by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) and [Prof. Hugh Liu](https://www.flight.utias.utoronto.ca/fsc/index.php/team)
 
 
 <div class="logo-row">
