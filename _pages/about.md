@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, there! This is Benyun Zhao (赵犇赟). I am a final-year Ph.D. student in the [Department of Mechanical and Automation Engineering](https://www4.mae.cuhk.edu.hk/message-from-department-chairman/) at the Chinese University of Hong Kong (CUHK), where I obtained my Master's degree in 2021. I am a member of [Unmanned System Research (USR) group](http://www.mae.cuhk.edu.hk/~usr/) and [Hong Kong Centre for Logistics Robotics (HKCLR)](https://www.hkclr.hk/), supervised by [_Prof. Ben M. Chen_](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and luckily having the chance to collaborate with [_Prof. Mark W. Mueller_](https://me.berkeley.edu/people/mark-w-mueller/) from [HiPeRLab](https://hiperlab.berkeley.edu/) in UC Berkeley, [_Prof. Zhi Gao_](https://gaozhinuswhu.com/) from Wuhan Univeristy and [_Prof. Xi Chen_](https://www4.mae.cuhk.edu.hk/peoples/chen-xi/), [_Prof. Yun-hui Liu_](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/) from CUHK.
 
-My work focuses on engineering applications of computer vision based on unmanned systems in various fields, such as object detection, instance segmentation, VLM deployment, image enhancement, 3D scene understanding in Infrastructure, Underwater and Enviromental scenes. I am also open to collaborations and research opportunities. Please feel free to contact and discuss🌟. (Email: byzhao@mae.cuhk.edu.hk / benyunzhao@berkeley.edu)
+My work focuses on engineering applications of computer vision based on unmanned systems in various fields, such as object detection, instance segmentation, VLM deployment, image enhancement, 3D scene understanding in civil infrastructure, underwater and enviromental scenes. I am also open to collaborations and research opportunities. Please feel free to discuss🌟. (Email: byzhao@mae.cuhk.edu.hk / benyunzhao@berkeley.edu)
 
 
 # 🔥 Latest News
@@ -44,7 +44,7 @@ My work focuses on engineering applications of computer vision based on unmanned
 
 FHGS: Feature-Homogenized Gaussian Splatting
 
-Q. Duan†, **B. Zhao**†, M. Han†, Y. Huang, and B. M. Chen
+Q. Duan†, **B. Zhao**, M. Han, Y. Huang, and B. M. Chen
 
 - Accepted at _**NeurIPS 2025 San Diego**_, Machine Learning Tracking
 - [**Project**](https://fhgs.cuastro.org/), [**PDF**](https://arxiv.org/abs/2505.19154)
@@ -299,7 +299,7 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 - **Champion**, Mechanical Manufacturing Competition Solar Power Car Project, Lianyungang, 2018
 
 # 📝 Academic Reviewer
-- _**IEEE Journal**_: T-IP; T-SMC; T-ASE; T-GRS; T-CSVT; T-Cyber; JSTARS; Sensors; Access 
+- _**IEEE Journal**_: T-IP; T-SMC:systems; T-GRS; T-ASE; T-CSVT; T-Cyber; JSTARS; Sensors; Access 
 - _**Elsevier**_: Pattern Recognition (_PR_); International Journal of Applied Earth Observation and Geoinformation (_JAG_); Automation in Construction (_AIC_); Advanced Engineering Informatics (_AEI_); Expert Systems with Applications (_ESWA_); Neural Networks (_NeuNet_); Construction and Building Materials (_CBM_); Journal of the Franklin Institute (_JFI_); Journal of Cleaner Production (_JClePro_); Journal of Building Engineering (_JBE_); Robotics and Autonomous Systems (_RAS_)
 - _**Springer Nature**_: Heritage Science; Scientific Reports; Pattern Analysis and Applications; Journal of Supercomputing; Discover Artificial Intelligence; Signal, Image and Video Processing
 - _**Oxford University Press**_: Journal of Computational Design and Engineering (_JCDE_)
