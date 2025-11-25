@@ -306,7 +306,7 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 - _**World Scientific**_: Unmanned Systems
 - _**Stage Jounrals**_: Journal of Engineering for the Maritime Environment
 
-- _**IEEE Conference**_: ICRA 2025; ISER 2025; ICRA 2024; IROS 2024; ICCA 2024; ICCA 2023
+- _**IEEE Conference**_: ICRA 2026 Vienna; ICRA 2025 Atlanta; ISER 2025 Santa Fe; ICRA 2024 Yokohama; IROS 2024 Abu Dhabi; ICCA 2024 Reykjavík; ICCA 2023 Naples
 
 
 # 💬 Invited Conference 
