@@ -23,6 +23,7 @@ My work focuses on engineering applications of computer vision based on unmanned
 
 
 # 🔥 Latest News
+- *2025.11*: 🎉🎉 One paper is accpeted by [_**IEEE T-GRS**_](https://ieeexplore.ieee.org/document/11232451). 
 - *2025.10*: 🎉🎉 One paper is accpeted by [_**IEEE T-ASE**_](https://ieeexplore.ieee.org/abstract/document/11196966). 
 - *2025.10*: 🎉🎉 Our work [**Feature-Homogenized Gaussian Splatting**](https://fhgs.cuastro.org/) is accepet by *NeurIPS 2025*.
 - *2025.07*: 🎉🎉 One paper is accpeted by [_**IEEE T-GRS**_](https://ieeexplore.ieee.org/abstract/document/11087443) and [_**IEEE T-IM**_](https://ieeexplore.ieee.org/abstract/document/11007070). 
@@ -44,7 +45,7 @@ My work focuses on engineering applications of computer vision based on unmanned
 
 FHGS: Feature-Homogenized Gaussian Splatting
 
-Q. Duan†, **B. Zhao**, M. Han, Y. Huang, and B. M. Chen
+Q. Duan, **B. Zhao**, M. Han, Y. Huang, and B. M. Chen
 
 - Accepted at _**NeurIPS 2025 San Diego**_, Machine Learning Tracking
 - [**Project**](https://fhgs.cuastro.org/), [**PDF**](https://arxiv.org/abs/2505.19154)
