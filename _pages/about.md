@@ -301,7 +301,7 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 
 # 📝 Academic Reviewer
 - _**IEEE Journal**_: T-IP; T-SMC:systems; T-GRS; T-ASE; T-CSVT; T-Cyber; JSTARS; Sensors; Access 
-- _**Elsevier**_: Pattern Recognition (_PR_); International Journal of Applied Earth Observation and Geoinformation (_JAG_); Automation in Construction (_AIC_); Advanced Engineering Informatics (_AEI_); Expert Systems with Applications (_ESWA_); Neural Networks (_NeuNet_); Construction and Building Materials (_CBM_); Journal of the Franklin Institute (_JFI_); Journal of Cleaner Production (_JClePro_); Journal of Building Engineering (_JBE_); Robotics and Autonomous Systems (_RAS_)
+- _**Elsevier**_: Pattern Recognition (_PR_); International Journal of Applied Earth Observation and Geoinformation (_JAG_); Advanced Engineering Informatics (_AEI_); Engineering Applications of Artificial Intelligence (_EAAI_); Expert Systems with Applications (_ESWA_); Neural Networks (_NeuNet_); Automation in Construction (_AIC_); Construction and Building Materials (_CBM_); Journal of the Franklin Institute (_JFI_); Journal of Cleaner Production (_JClePro_); Journal of Building Engineering (_JBE_); Robotics and Autonomous Systems; Measurement: Digitalization; Imaging Science Journal
 - _**Springer Nature**_: Heritage Science; Scientific Reports; Pattern Analysis and Applications; Journal of Supercomputing; Discover Artificial Intelligence; Signal, Image and Video Processing
 - _**Oxford University Press**_: Journal of Computational Design and Engineering (_JCDE_)
 - _**World Scientific**_: Unmanned Systems
