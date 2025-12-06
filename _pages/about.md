@@ -300,12 +300,13 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 - **Champion**, Mechanical Manufacturing Competition Solar Power Car Project, Lianyungang, 2018
 
 # 📝 Academic Reviewer
-- _**IEEE Journal**_: T-IP; T-SMC:systems; T-GRS; T-ASE; T-CSVT; T-Cyber; JSTARS; Sensors; Access 
-- _**Elsevier**_: Pattern Recognition (_PR_); International Journal of Applied Earth Observation and Geoinformation (_JAG_); Advanced Engineering Informatics (_AEI_); Engineering Applications of Artificial Intelligence (_EAAI_); Expert Systems with Applications (_ESWA_); Neural Networks (_NeuNet_); Automation in Construction (_AIC_); Construction and Building Materials (_CBM_); Journal of the Franklin Institute (_JFI_); Journal of Cleaner Production (_JClePro_); Journal of Building Engineering (_JBE_); Robotics and Autonomous Systems; Measurement: Digitalization; Imaging Science Journal
+- _**IEEE Journal**_: [T-IP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing); [T-SMC:systems](https://www.ieeesmc.org/publications/transactions-on-smc-systems/); [T-GRS](https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/); [T-ASE](https://www.ieee-ras.org/publications/t-ase); [T-CSVT](https://ieee-cas.org/publication/tcsvt); [T-Cyber](https://www.ieeesmc.org/publications/transactions-on-cybernetics/); [JSTARS](https://www.grss-ieee.org/publications/journal-of-selected-topics-in-applied-earth-observations-and-remote-sensing/); [Sensors](https://ieee-sensors.org/ieee-sensors-journal/); [Access](https://ieeeaccess.ieee.org/) 
+- _**Elsevier**_: [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)(_PR_); [International Journal of Applied Earth Observation and Geoinformation](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation)(_JAG_); Advanced Engineering Informatics (_AEI_); Engineering Applications of Artificial Intelligence (_EAAI_); Expert Systems with Applications (_ESWA_); Neural Networks (_NeuNet_); Automation in Construction (_AIC_); Applied Soft Computing (_ASC_); Construction and Building Materials (_CBM_); Journal of the Franklin Institute (_JFI_); Journal of Cleaner Production (_JCP_); Journal of Building Engineering (_JBE_); Robotics and Autonomous Systems (_RAS_); Measurement: Digitalization 
 - _**Springer Nature**_: Heritage Science; Scientific Reports; Pattern Analysis and Applications; Journal of Supercomputing; Discover Artificial Intelligence; Signal, Image and Video Processing
 - _**Oxford University Press**_: Journal of Computational Design and Engineering (_JCDE_)
 - _**World Scientific**_: Unmanned Systems
 - _**Stage Jounrals**_: Journal of Engineering for the Maritime Environment
+- _**Taylor & Francis**_: Imaging Science Journal
 
 - _**IEEE Conference**_: ICRA 2026 Vienna; ICRA 2025 Atlanta; ISER 2025 Santa Fe; ICRA 2024 Yokohama; IROS 2024 Abu Dhabi; ICCA 2024 Reykjavík; ICCA 2023 Naples
 
