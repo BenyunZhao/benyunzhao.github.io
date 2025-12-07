@@ -313,7 +313,7 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 - _**Taylor & Francis**_: [Imaging Science Journal](https://www.tandfonline.com/journals/yims20)
 
 # 💬 Invited Conference
-- *2025.12*: NeurIPS 2025 at San Diego, UAS, topic of [FHGS: Feature-Homogenized Gaussian Splatting](https://fhgs.cuastro.org/).
+- *2025.12*: NeurIPS 2025 at San Diego, USA, topic of [FHGS: Feature-Homogenized Gaussian Splatting](https://fhgs.cuastro.org/).
 - *2025.10*: 2025 International Symposium on Cooperative Autonomous Systems (ISCAS 2025), at [Pengcheng Laboratory](https://www.pcl.ac.cn/), chaired by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm).
 - *2025.07*: IEEE ICCA 2025 at Tallinn, Estonia, topic of [UAV-Collected Multi-Class Instance Segmentation Dataset for Building Facades Defects](https://ieeexplore.ieee.org/document/11129773).
 - *2025.05*: IEEE ICRA 2025 at Atlanta, USA, topics of [Lightweight Yet High-Performance Defect Detector for Uav-Based Large-Scale Infrastructure Real-Time Inspection](https://ieeexplore.ieee.org/document/11127758); [End-to-End Underwater Multi-View Stereo for Dense Scene Reconstruction](https://ieeexplore.ieee.org/document/11128539) and [Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction](https://ieeexplore.ieee.org/document/11128506).
