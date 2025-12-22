@@ -24,6 +24,6 @@ main:
   - title: "Review"
     url: "/#-academic-reviewer"
 
-  # - title: "Invited Conference"
-  #   url: "/#-invited-conference"
+  - title: "Invited Conference"
+    url: "/#-invited-conference"
   
