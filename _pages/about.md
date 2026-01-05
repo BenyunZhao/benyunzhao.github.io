@@ -60,7 +60,7 @@ AI-empowered Digital Twin Modeling for High-precision Building Defect Management
 
 J. Zhang, **B. Zhao***, G. Yang, X. Zhou, Y. Huang, C. Gao, X. Chen and B. M. Chen
 
-- Accepted at _**Building Simulation**_, 2025
+- Accepted at _**Building Simulation**_ (Cover Paper), 2025
 </div>
 </div>
 
