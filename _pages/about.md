@@ -94,7 +94,7 @@ P. Zhou, S. Li, **B. Zhao**, B. Wahlberg, X. Hu
 
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/icra2025.png' alt="icra2025-det" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/papers/icra2025.png' alt="icra2025-det" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Lightweight yet High-Performance Defect Detector for UAV-Based Large-Scale Infrastructure Real-Time Inspection
@@ -104,7 +104,7 @@ Lightweight yet High-Performance Defect Detector for UAV-Based Large-Scale Infra
 - Accepted at _**ICRA 2025 Atlanta**_, Aerial Robotics Tracking <span class="rucred">Oral</span>
 - [**Code**](https://github.com/ZHAOBenyun/CUPID-defect-detector), [**Video**](https://drive.google.com/file/d/1aF60K5ictHUmy_rjEovKXsbXMP1cjLZ5/view) 
 </div>
-</div>
+</div> -->
 
 
 <!-- ##### ------------------- split paper ------------------- #####  -->
@@ -317,7 +317,7 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 - *2025.12*: NeurIPS 2025 at San Diego, USA, topic of [FHGS: Feature-Homogenized Gaussian Splatting](https://fhgs.cuastro.org/).
 - *2025.10*: 2025 International Symposium on Cooperative Autonomous Systems (ISCAS 2025), at [Pengcheng Laboratory](https://www.pcl.ac.cn/), chaired by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm).
 - *2025.07*: IEEE ICCA 2025 at Tallinn, Estonia, topic of [UAV-Collected Multi-Class Instance Segmentation Dataset for Building Facades Defects](https://ieeexplore.ieee.org/document/11129773).
-- *2025.05*: IEEE ICRA 2025 at Atlanta, USA, topics of [Lightweight Yet High-Performance Defect Detector for Uav-Based Large-Scale Infrastructure Real-Time Inspection](https://ieeexplore.ieee.org/document/11127758); [End-to-End Underwater Multi-View Stereo for Dense Scene Reconstruction](https://ieeexplore.ieee.org/document/11128539) and [Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction](https://ieeexplore.ieee.org/document/11128506).
+<!-- - *2025.05*: IEEE ICRA 2025 at Atlanta, USA, topics of [Lightweight Yet High-Performance Defect Detector for Uav-Based Large-Scale Infrastructure Real-Time Inspection](https://ieeexplore.ieee.org/document/11127758); [End-to-End Underwater Multi-View Stereo for Dense Scene Reconstruction](https://ieeexplore.ieee.org/document/11128539) and [Multi-View Stereo with Geometric Encoding for Dense Scene Reconstruction](https://ieeexplore.ieee.org/document/11128506). -->
 - *2024.10*: IEEE IROS 2024 at Abu Dhabi, UAE, topic of [Det-Recon-Reg: An Intelligent Framework Towards Automated Large-Scale Infrastructure Inspection](https://ieeexplore.ieee.org/document/10802463).
 - *2024.05*: IEEE ICRA 2024 at Yokohama, Japan, topics of [EnYOLO: A Real-Time Framework for Domain-Adaptive Underwater Object Detection with Image Enhancement](https://ieeexplore.ieee.org/document/10610639) and [SANet: Small but Accurate Detector for Aerial Flying Object](https://ieeexplore.ieee.org/document/10611606).
 - *2024.07*: IEEE RCAR 2024 at Ålesund, Norway, topic of [Underwater Object Detection Integrated with Image Enhancement](https://ieeexplore.ieee.org/document/10671252).
