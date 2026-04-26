@@ -23,7 +23,7 @@ My work focuses on engineering applications of computer vision based on unmanned
 
 
 # 🔥 Latest News
-- *2026.04*: 🎉🎉 One paper is accpeted by [_**Automation in Construction**_].
+- *2026.04*: 🎉🎉 One paper is accpeted by [_**Automation in Construction**_](https://doi.org/10.1016/j.autcon.2026.106980).
 - *2025.11*: 🎉🎉 One paper is accpeted by [_**IEEE T-GRS**_](https://ieeexplore.ieee.org/document/11232451). 
 - *2025.10*: 🎉🎉 One paper is accpeted by [_**IEEE T-ASE**_](https://ieeexplore.ieee.org/abstract/document/11196966). 
 - *2025.10*: 🎉🎉 Our work [**Feature-Homogenized Gaussian Splatting**](https://fhgs.cuastro.org/) is accepet by *NeurIPS 2025*.
