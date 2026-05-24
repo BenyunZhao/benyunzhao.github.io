@@ -253,8 +253,8 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 # 📖 Education
 - *2022.08 - present*: Ph.D. in Mechanical and Automation Engineering, The Chinese University of Hong Kong, supervised by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
 - *2020.09 - 2021.06*: M.S. in Mechanical and Automation Engineering, The Chinese University of Hong Kong, supervised by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
-- *2018.09 - 2019.07*: Exchange Student in Mechanical Engineering, Nanjing Tech University, supervised by [Prof. Haihan Xu](https://mech.njtech.edu.cn/info/1019/1836.htm)
-- *2016.09 - 2020.07*: B.Eng. in Mechanical Design, Manufacturing and Automation, Jiangsu Ocean University, supervised by [Prof. Yiqiang He](https://jixie.jou.edu.cn/info/1160/4857.htm) and [Prof. Dazhi Huang](https://coe.jou.edu.cn/info/1317/2211.htm)
+- *2018.09 - 2019.07*: Exchange Student in Mechanical Engineering, Nanjing Tech University
+- *2016.09 - 2020.07*: B.Eng. in Mechanical Design, Manufacturing and Automation, Jiangsu Ocean University
 
 
 # 💼 Working and Internships
