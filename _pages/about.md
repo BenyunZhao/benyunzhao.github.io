@@ -261,7 +261,7 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 - *2025.01 - 2025.05*, **Teaching Assistant** of ESTR1006 Multivariable Calculus (2024-2025 Semester 2), Instructor: [Prof. Dongkun Han](https://www4.mae.cuhk.edu.hk/peoples/han-dongkun/), The Chinese University of Hong Kong, Hong Kong.
 - *2024.09 - 2025.12*, **Teaching Assistant** of MAEG4040 Mechatronic System (2024-2025 Semester 1), Instructor: [Prof. Xin Ma](https://mee.sustech.edu.cn/en/jiaozhiyuangong/3683.html), The Chinese University of Hong Kong, Hong Kong.
 - *2024.09 - 2025.06*, **Teaching Assistant** of MAEG4998 Undergraduate Final Year Project, Instructor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), The Chinese University of Hong Kong, Hong Kong.
-    - Deep Learning-Based Detection and Segmentation of Building Façade Defects and Components: From Dataset Establishment to Drone Experiments (Student: Katerina Yim, won [Champion of 'VTech Innovation & Sustainability Award 2025'](https://drive.google.com/file/d/1gCyErSA3UgEtgpgu9WdSu_tpe2qe-Njk/view?usp=drive_link) and published one paper on the [19th _**IEEE ICCA 2025 Tallinn**_, Estonia](http://www.mae.cuhk.edu.hk/~usr/icca2025/index.html))
+    - Deep Learning-Based Detection and Segmentation of Building Façade Defects and Components: From Dataset Establishment to Drone Experiments (Student: Katerina Yim, won [Champion of 'VTech Innovation & Sustainability Award 2025'](https://drive.google.com/file/d/1ViPCanz2iovKzeFOlcsBR-_yqIAq7cy6/view?usp=sharing) and published one paper on the [19th _**IEEE ICCA 2025 Tallinn**_, Estonia](http://www.mae.cuhk.edu.hk/~usr/icca2025/index.html))
 
 
 - *2024.01 - 2024.05*, **Teaching Assistant** of ESTR1006 Multivariable Calculus (2023-2024 Semester 2), Instructor: [Prof. Dongkun Han](https://www4.mae.cuhk.edu.hk/peoples/han-dongkun/), The Chinese University of Hong Kong, Hong Kong. 
@@ -284,13 +284,13 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 
 # 🏆 Honors and Patents
 ##### Postgraduate
-- [**Utility Model Patent Certificate**](https://drive.google.com/file/d/14yFExCMMQA-coDnAwgSJXQCKZnC9vCQD/view?usp=sharing), China National Intellectual Property Administration, Shenzhen, 2025
-- [**Design Patent Certificate**](https://drive.google.com/file/d/1oSwcUJ8WO1w6udAb37ok60T4bs7Z_W7Z/view?usp=sharing), China National Intellectual Property Administration, Shenzhen, 2025
+- [**Utility Model Patent Certificate**](https://drive.google.com/file/d/1t1SS-Hfw-jM3FhUklr7uJUS8Zrem0aXC/view?usp=sharing), China National Intellectual Property Administration, Shenzhen, 2025
+- [**Design Patent Certificate**](https://drive.google.com/file/d/1F1OIEEHduBJEufZ2fSlytfstdmJErZCv/view?usp=sharing), China National Intellectual Property Administration, Shenzhen, 2025
 - [**3D Reconstruction US Patent**](https://patents.google.com/patent/US20250022153A1/en), US Patent and Trademark Office, Hong Kong, 2025
 - [**Gold Award & Best Business Potential Award**](https://www.cwisa.com/en/past-award-winners.html) - 💰HKD 100,000 & 💰HKD 5,000, Chun Wo Innovation Student Awards, Hong Kong, 2023
 - [**Best Business Idea Award**](https://daretochange.ydc.org.hk/en/showcase-urbannet.aspx) - 💰HKD 15,000, YDC Dare To Change Business Pitch Competition, Hong Kong, 2023
-- [**Champion**](https://drive.google.com/file/d/1oXJRMmwQ0JW0GVwd5Gdb2-vpBGcsLBBM/view?usp=drive_link) - 💰HKD 18,000, Professor Charles K. Ko Student Creativity Award, Hong Kong, 2023
-- [**Bronze Medal**](https://drive.google.com/file/d/1KcbXp0Zm0-V9rT-3qytHy38phAUzHvuy/view?usp=drive_link), 48th Geneva International Exhibition of Inventions, Geneva, Switzerland, 2023
+- [**Champion**](https://drive.google.com/file/d/1pYI-tE7dBDnDvMACyhh7fB9MV7L5wF9M/view?usp=sharing) - 💰HKD 18,000, Professor Charles K. Ko Student Creativity Award, Hong Kong, 2023
+- [**Bronze Medal**](https://drive.google.com/file/d/1hRJFeFQ8YwFdYCg6jaSFqEfnmZZd2oDn/view?usp=sharing), 48th Geneva International Exhibition of Inventions, Geneva, Switzerland, 2023
 - **Postgraduate Studentship**, The Chinese University of Hong Kong, Hong Kong, 2022-2026
 
 ##### Undergraduate
