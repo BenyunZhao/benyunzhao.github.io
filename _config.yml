@@ -23,11 +23,11 @@ author:
   name             : "Benyun Zhao"  # 你的名字
   avatar           : "images/self.png"  # 头像图片路径
   bio              : "USR Group in CUHK & HiPeRLab in UC Berkeley"  # 简短的个人简介
-  location         : "Berkeley, CA, USA"  # 所在地
+  location         : "Hong Kong"  # 所在地
   employer         : 
   pubmed           :  # PubMed个人主页链接
   googlescholar    : "https://scholar.google.com/citations?user=igpKZUMAAAAJ&hl=en&oi=sra"  # 谷歌学术主页
-  email            : "benyunzhao@berkeley.edu"  # 联系邮箱
+  email            : "benyunzhao@gmail.com"  # 联系邮箱
   researchgate     : "https://www.researchgate.net/profile/Benyun-Zhao"  # ResearchGate主页
   uri              :  # 个人网站
   bitbucket        :  # Bitbucket账号
