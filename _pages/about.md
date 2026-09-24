@@ -247,12 +247,12 @@ G. Yang, K. Liu, J. Zhang, **B. Zhao**, Z. Zhao, X. Chen and B. M. Chen
 
 # 💻 Experience
 - *2025.05 - 2025.09*: Visiting Scholar, [HiPeRLab](https://hiperlab.berkeley.edu/) in UC Berkeley, supervised by [Prof. Mark W. Mueller](https://me.berkeley.edu/people/mark-w-mueller/)
-- *2024.04 - 2025.05*: Visiting Scholar, Nanjing University of Science and Technology, supervised by [Prof. Zhenbo Song](https://www.researchgate.net/profile/Song-Zhenbo) and [Prof. Jianfeng Lu](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
+- *2024.04 - 2024.05*: Visiting Scholar, Nanjing University of Science and Technology, supervised by [Prof. Zhenbo Song](https://www.researchgate.net/profile/Song-Zhenbo) and [Prof. Jianfeng Lu](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
 - *2021.07 - 2022.07*: Research Assistant, The Chinese University of Hong Kong & Hong Kong Centre for Logistics Robotics, supervised by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/) and [Prof. Yun-hui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/)
 
 # 📖 Education
 - *2022.09 - 2026.07*: Ph.D. in Mechanical and Automation Engineering, The Chinese University of Hong Kong, supervised by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
-- *2020.09 - 2021.06*: M.S. in Mechanical and Automation Engineering, The Chinese University of Hong Kong, supervised by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
+- *2020.09 - 2021.11*: M.S. in Mechanical and Automation Engineering, The Chinese University of Hong Kong, supervised by [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
 - *2018.09 - 2019.07*: Exchange Student in Mechanical Engineering, Nanjing Tech University
 - *2016.09 - 2020.07*: B.Eng. in Mechanical Design, Manufacturing and Automation, Jiangsu Ocean University
 
